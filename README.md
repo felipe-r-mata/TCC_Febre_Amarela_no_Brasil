@@ -2,7 +2,7 @@
 
 ## Pós Graduação em Ciência de Dados e Big Data
 
-## Projeto de TCC: Classificação de Mortalidade de Febre Amarela no Brasil
+## Classificação da Mortalidade em Casos de Febre Amarela no Brasil
 
 ### Aluno: Felipe dos Santos Rodrigues Mata
 
