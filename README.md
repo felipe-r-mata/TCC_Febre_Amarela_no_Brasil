@@ -1,6 +1,6 @@
 # PUC Minas
 
-## Pós Graduação em Ciência de Dados e Big Data
+## Pós-graduação em Ciência de Dados e Big Data
 
 ## Classificação da Mortalidade em Casos de Febre Amarela no Brasil
 
